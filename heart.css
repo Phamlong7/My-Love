@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    margin: 0;
+  }
+  .container{
+    position:absolute;
+    top:0;
+    left:0;
+    height:80%;
+    width:30%;
+    text-align: center;
+    color:white;
+    font-family:cursive;
+  }
+  #word{
+    font-family: Megrim, cursive;
+    font-size: 20vh;
+    position: absolute;
+    margin: 10;
+    /*bottom: 0;*/
+    color: #fc0;
+    -webkit-text-stroke: 0.15vh #c0f;
+  }
